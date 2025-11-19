@@ -1,6 +1,8 @@
 # DA5401 – Metric Learning for Conversational AI  
 ### End-Semester Data Challenge (2025)
 
+Author: Dikshank Sihag
+
 ## Overview
 
 This repository implements a full end-to-end solution for the DA5401 2025 Data Challenge.  
