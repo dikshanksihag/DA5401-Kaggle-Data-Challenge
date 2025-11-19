@@ -184,12 +184,5 @@ pip install -r requirements.txt
 
 This repository provides a robust, end-to-end solution for the DA5401 metric-learning task, from raw data to Kaggle submission.  
 Everything is reproducible and structured for clarity and performance.
-
-If you'd like:
-- A lighter README,
-- A more academic version,
-- Diagrams for the architecture,
-- Or a full LaTeX technical report,
-
 just ask.
 
